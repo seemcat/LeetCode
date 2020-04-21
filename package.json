@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "My answers to the top interview questions on LeetCode.",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^25.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seemcat/LeetCode.git"
+  },
+  "author": "Maricris Bonzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seemcat/LeetCode/issues"
+  },
+  "homepage": "https://github.com/seemcat/LeetCode#readme"
+}
